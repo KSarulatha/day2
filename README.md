@@ -111,7 +111,7 @@ if(element>=0){
     <h1>Print an array in reverse order</h1>
 </body>
 <script>
-let arr=['mom','Dad','sister','Brother','Friend','family']
+let arr=['mom','Dad','sister','papa','Brother','Friend','family']
 console.log('correct order is '+arr);
 console.log(arr.reverse());
 console.log('reverse order is '+arr);
